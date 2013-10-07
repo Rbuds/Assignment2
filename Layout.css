@@ -15,6 +15,9 @@
 	margin-top: 100px;
 	width: 90%;
 }
-.links {
-	float: none;
+.credit {
+	float: right;
+	width: auto;
+	margin-bottom: 10%;
+	margin-right: 10%;
 }
