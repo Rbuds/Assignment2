@@ -1,0 +1,20 @@
+@media (min-width: 601px;) {
+	.mast {
+		width: auto;
+	}
+	ul.nav li {
+		margin-right: 30%;
+	}
+	
+	h1 {
+		float: left;
+		width: 33%;
+	}
+}
+
+@media (max-width: 600px) {
+	.mast, .intro {
+		float: none;
+		width: auto;
+	}
+}
